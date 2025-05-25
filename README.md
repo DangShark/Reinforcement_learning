@@ -1,4 +1,4 @@
-# Deep Q-Learning va Double Deep Q-Learning cho LunarLander-v3
+# Deep Q-Learning và Double Deep Q-Learning cho LunarLander-v3
 
 Kho mã nguồn này chứa triển khai thuật toán **Deep Q-Learning (DQN)** để giải bài toán **LunarLander-v3** từ thư viện Gymnasium. Dự án thể hiện việc áp dụng học tăng cường (Reinforcement Learning) để huấn luyện một tác nhân (agent) hạ cánh an toàn một mô-đun mặt trăng, vượt qua các thách thức như không gian trạng thái liên tục và đảm bảo tính ổn định trong quá trình huấn luyện.
 
